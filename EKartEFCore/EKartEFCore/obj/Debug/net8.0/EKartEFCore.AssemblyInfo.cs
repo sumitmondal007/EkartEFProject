@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EKartEFCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+232cb2620d54f4a0d1722b4914284097f52ebf9b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51dab8b6f46991298646e0b909ce438b33315bf4")]
 [assembly: System.Reflection.AssemblyProductAttribute("EKartEFCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EKartEFCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
